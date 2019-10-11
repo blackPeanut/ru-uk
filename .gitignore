@@ -1,0 +1,9 @@
+# editor environment
+
+/.idea
+/*.iml
+
+# build-related
+.current_release
+.dict_page
+Godeps/
